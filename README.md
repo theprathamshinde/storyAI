@@ -22,8 +22,8 @@ A Flutter application that generates AI-powered stories with images for children
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/story_ai_app.git
-   cd story_ai_app
+   git clone https://github.com/theprathamshinde/story_ai_app.git
+   cd storyAI
    ```
 2. Copy the `.env.template` file to `.env`:
 
