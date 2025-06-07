@@ -1,45 +1,32 @@
-# 📖✨ Story AI App
+# 📚 Story AI App
 
-A magical **Flutter application** that crafts **AI-powered children's stories** complete with charming illustrations! ✨
-
-Harnessing the power of **Gemini's AI** and **Supabase**, this app lets children or parents generate **10-page personalized storybooks** — ready to read, share, or collect.
+A **Flutter** application that generates **AI-powered children's stories** with images. This app uses **Gemini's AI** capabilities for story generation and **Supabase** for secure data storage.
 
 ---
 
-## 🌟 Features
+## ✨ Features
 
-- 🧠 **AI Story Generation** — Gemini crafts 10-page stories in seconds
-- 🎨 **Illustrations** — Each page has a unique AI-generated image *(or use your own image API!)*
-- 📝 **Customize Your Tale** — Choose the title, description, theme, and target age
-- 📚 **Story Library** — View all your tales in a beautiful bookshelf-like home screen
-- 📖 **Page-by-Page Reading** — Navigate your story with a delightful page reader
-- 🗑️ **Delete Stories** — Clean up or remove unwanted stories
-
----
-
-## 🚀 Demo
-
-🔗 [Watch the Demo Video](https://your-demo-link.com)
-
-> Replace the above link with your YouTube, Drive, or GitHub-hosted demo.
+- 📖 Generate **10-page** stories with **AI-generated images**
+- 🎨 Customize **title**, **description**, **theme**, and **target age**
+- 🏠 Beautiful **home screen** showing all created stories
+- 📄 Page-by-page **story reading navigation**
+- 🗑️ Delete stories you no longer need
 
 ---
 
-## 🧱 Prerequisites
+## ⚙️ Prerequisites
 
-Before you begin, ensure you have the following:
-
-- ✅ Flutter SDK (latest stable version)
-- ✅ Google Generative AI API key (Gemini)
-- ✅ Supabase account & project
-- ✅ Basic knowledge of Flutter
+- 💻 Flutter SDK (latest stable version)
+- 🔑 Google Generative AI API key (Gemini)
+- 🗄️ Supabase account and project
+- 🧠 Basic knowledge of Flutter development
 
 ---
 
-## ⚙️ Setup Instructions
+## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
+1. 📥 **Clone the repository**:
 
-```bash
-git clone https://github.com/theprathamshinde/story_ai_app.git
-cd storyAI
+   ```bash
+   git clone https://github.com/theprathamshinde/story_ai_app.git
+   cd storyAI
