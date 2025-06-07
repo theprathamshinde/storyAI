@@ -27,7 +27,7 @@ A **Flutter** application that generates **AI-powered children's stories** with 
 1. Clone the repository:
 
    
-git clone https://github.com/theprathamshinde/story_ai_app.git
+git clone https://github.com/theprathamshinde/storyAI.git
    cd storyAI
 
 2. Copy the .env.template file to .env:
